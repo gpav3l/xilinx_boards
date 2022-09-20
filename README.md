@@ -10,6 +10,6 @@ Put folders from board_files in subfolder into <Vivado_instalation_path>/Vivado/
 
 **Alinx**
 
-* [AC7010](https://www.alinx.com/en/detail/544) boards_files
+* [AC7010](https://www.alinx.com/en/detail/544) boards_files, xdc
 * [AC7020](https://www.alinx.com/en/detail/289) boards_files, xdc
 * [AC7Z020](https://www.alinx.com/en/detail/296) xdc
