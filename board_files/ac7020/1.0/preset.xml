@@ -85,7 +85,7 @@
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_BOARD_DELAY3" value="0.334"/> 
         <user_parameter name="CONFIG.PCW_UIPARAM_DDR_USE_INTERNAL_VREF" value="0"/> 
         <user_parameter name="CONFIG.PCW_QSPI_GRP_SINGLE_SS_IO" value="MIO 1 .. 6"/> 
-        <user_parameter name="CONFIG.PCW_USB0_RESET_IO" value="MIO 7"/> 
+        <user_parameter name="CONFIG.PCW_USB0_RESET_IO" value="MIO 46"/>
         <user_parameter name="CONFIG.PCW_QSPI_GRP_FBCLK_IO" value="MIO 8"/> 
         <user_parameter name="CONFIG.PCW_ENET0_ENET0_IO" value="MIO 16 .. 27"/> 
         <user_parameter name="CONFIG.PCW_USB0_USB0_IO" value="MIO 28 .. 39"/> 
